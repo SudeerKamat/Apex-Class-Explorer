@@ -1,4 +1,4 @@
-# Salesforce DX Project: Apex Class Explorer
+Apex Class Explorer
 
 This App is build on Lightning Web Component Framework.
 
